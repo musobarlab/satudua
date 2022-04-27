@@ -1,0 +1,1 @@
+#### C Golang binding example
